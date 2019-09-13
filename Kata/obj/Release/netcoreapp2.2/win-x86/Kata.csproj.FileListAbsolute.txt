@@ -1,0 +1,11 @@
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.exe
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.deps.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.runtimeconfig.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.runtimeconfig.dev.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.dll
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x86\Kata.pdb
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x86\Kata.csproj.CoreCompileInputs.cache
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x86\Kata.AssemblyInfoInputs.cache
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x86\Kata.AssemblyInfo.cs
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x86\Kata.dll
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x86\Kata.pdb

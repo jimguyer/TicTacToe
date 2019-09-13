@@ -1,0 +1,14 @@
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.exe
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.deps.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.runtimeconfig.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.runtimeconfig.dev.json
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.dll
+C:\Source\Kata\Kata\bin\Release\netcoreapp2.2\win-x64\Kata.pdb
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.csprojAssemblyReference.cache
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.csproj.CoreCompileInputs.cache
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.AssemblyInfoInputs.cache
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.AssemblyInfo.cs
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.dll
+C:\Source\Kata\Kata\obj\Release\netcoreapp2.2\win-x64\Kata.pdb
