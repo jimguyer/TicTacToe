@@ -127,17 +127,17 @@ namespace Kata
                     if (UL == ML && UL == LL) return true;  // Left
                     return false;
                 case eLoc.UpperCenter:
-                case eLoc.LowerCenter:
+                    if (UL == UC && UL == UR) return true;  // Upper
                     if (UC == C && UC == LC) return true;   // Center
                     return false;
                 case eLoc.UpperRight:
                     if (UL == UC && UL == UR) return true;  // Upper
                     if (LL == C && LL == UR) return true;   // Upward Slash
-                    if (UL == ML && UL == LL) return true;  // Right
+                    if (UR == MR && UR == LR) return true;  // Right
                     return false;
                 case eLoc.MiddleLeft:
-                case eLoc.MiddleRight:
                     if (ML == C && ML == MR) return true;   // Middle
+                    if (UL == ML && UL == LL) return true;  // Left
                     return false;
                 case eLoc.Center:
                     if (UL == C && UL == LR) return true;   // Downward Slash
@@ -145,14 +145,22 @@ namespace Kata
                     if (LL == C && LL == UR) return true;   // Upward Slash
                     if (ML == C && ML == MR) return true;   // Middle
                     return false;
+                case eLoc.MiddleRight:
+                    if (ML == C && ML == MR) return true;   // Middle
+                    if (UR == MR && UR == LR) return true;  // Right
+                    return false;
                 case eLoc.LowerLeft:
                     if (LL == C && LL == UR) return true;   // Upward Slash
                     if (UL == ML && UL == LL) return true;  // Left
                     if (LL == LC && LL == LR) return true;  // Lower
                     return false;
+                case eLoc.LowerCenter:
+                    if (LL == LC && LL == LR) return true;  // Lower
+                    if (UC == C && UC == LC) return true;   // Center
+                    return false;
                 case eLoc.LowerRight:
-                    if (LL == C && LL == UR) return true;   // Upward Slash
-                    if (UL == ML && UL == LL) return true;  // Left
+                    if (UL == C && UL == LR) return true;   // Downward Slash
+                    if (UR == MR && UR == LR) return true;  // Right
                     if (LL == LC && LL == LR) return true;  // Lower
                     return false;
             }
